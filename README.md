@@ -1,4 +1,5 @@
 # GWT-SmartGWT-Maven-sample
+Vytvořil jsme GWT aplikaci přes Ideu. Přidal jsem Maven. Do Mavenu jsem přidal závislosti pro GWT a SmartGWT. Upravil jsme aplikaci tak aby v ní fungovalo SmartGWT
 
 ###Přidání SmartGwt pro verzi vyšší než 4.1 
 
