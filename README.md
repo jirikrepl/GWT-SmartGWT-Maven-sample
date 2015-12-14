@@ -11,3 +11,6 @@ https://code.google.com/p/smartgwt/issues/detail?id=758
 http://www.smartclient.com/smartgwt/javadoc/com/smartgwt/client/docs/SuperDevModeTroubleshooting.html
 
 http://forums.smartclient.com/forum/smart-gwt-technical-q-a/32571-gwt-2-7-smartgwt-5-does-not-load-skins?t=31789
+
+# 2. možnost
+Vygenerovat GWT z archetypu pro Maven https://github.com/tbroyer/gwt-maven-archetypes
