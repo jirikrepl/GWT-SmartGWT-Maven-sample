@@ -1,7 +1,12 @@
 # GWT-SmartGWT-Maven-sample
 Vytvořil jsme GWT aplikaci přes Ideu. Přidal jsem Maven. Do Mavenu jsem přidal závislosti pro GWT a SmartGWT. Upravil jsme aplikaci tak aby v ní fungovalo SmartGWT
 
-###Přidání SmartGwt pro verzi vyšší než 4.1 
+###Přidání SmartGwt ve verzi > 4.1 
+Spustíme tento příkaz
+
+    mvn com.isomorphic:isc-maven-plugin:install -Dproduct=SMARTGWT -Dlicense=LGPL -DbuildNumber=5.0p -DbuildDate=2015-11-29
+
+více zde:
 
 https://gist.github.com/jirikrepl/49e59b43cc9d29c9fd49
 
